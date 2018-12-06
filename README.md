@@ -16,6 +16,7 @@ After running docker compose, you can access to services each via custom port.
 
 # Example
 This is an example of configured build and testing pipeline for maven project using docker image for each service.
+![screenshot](demo/01.png)
 
 This is example contains different steps:
 1. Compile the project using `maven`
